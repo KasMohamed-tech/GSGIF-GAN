@@ -1,7 +1,7 @@
 # Official PyTorch implementation of Generic Saliency-Guided Image Fusion GAN (GSGIF-GAN) 
 Mohamed Kas. Ibrahim Kajo. Abderrazak Chahi. Yassine Ruichek
 
-Submitted to Information Fusion
+Submitted to Applied Soft Computing Journal
 
 Paper link: (under review)
 
